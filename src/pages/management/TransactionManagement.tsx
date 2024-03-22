@@ -18,7 +18,7 @@ const orderItems: OrderItemType[] = [
 
 const TransactionManagement = () => {
   const [order, setOrder] = useState<OrderType>({
-    name: "Abhishek Singh",
+    name: "Harsh  Raj",
     address: "77 Black Street",
     city: "Neyword",
     state: "Nevada",
